@@ -533,7 +533,7 @@ window.addEventListener('load', function () {
                 context.shadowColor = 'black';
                 let message1;
                 let message2;
-                if (this.lostHatchlings <= 5) { 
+                if (this.lostHatchlings <= 10) { 
                     message1 = 'You win!';
                     message2 = 'Your score is: ' + this.score;
                 } else {
