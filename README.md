@@ -1,3 +1,6 @@
+
+You can check out the game [here](https://2d-game-project.netlify.app/)
+
 # 2d-Physics-Game
 Game Rules:
 Push Eggs up to the forest safety around Obstcales and coming Monsters. Larva is hatched from each Egg after 5 seconds, protect it and guide to the forest, otherwise it will be eaten by the Monsters!
